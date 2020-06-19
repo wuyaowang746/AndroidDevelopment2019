@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="Tv">User Login</string>
+    <string name="UserName">User Name:</string>
+    <string name="PassWord">PassWord:</string>
+    <string name="editUser"></string>
+    <string name="editPassWord">Input PassWord</string>
+    <string name="ConfirmBtn">Login in</string>
+    <string name="CancelBtn">Cancel</string>
+    <string name="checkBoxPassword">Password Visible</string>
+    <string name="welcome">Welcome</string>
+</resources>
